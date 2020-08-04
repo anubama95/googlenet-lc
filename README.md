@@ -1,1 +1,1 @@
-# googlenet-lc
+# googlenet-leaf classification
